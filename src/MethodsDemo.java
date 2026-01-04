@@ -12,6 +12,8 @@ public class MethodsDemo {
 
 	}
 public void display() {
+	System.out.println("Added just for branching demo");
+	
 	System.out.println("Hello world");
 }
 
